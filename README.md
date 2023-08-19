@@ -1,4 +1,4 @@
-👋 Hi, I’m @prti17
+👋 Hi, I’m @Preeti
 
 <!---
 prti17/prti17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
